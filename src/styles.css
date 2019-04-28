@@ -15,3 +15,8 @@
   font-family: 'Ubuntu-Light';
   src: url("/assets/fonts/Ubuntu-Light.ttf") format("truetype");
 }
+
+
+.p{
+  font-family: Ubuntu-Light;
+}
