@@ -1,0 +1,34 @@
+.skaf-nav{
+  background-color: #E31937;
+}
+
+.navbar-brand{
+  font-family: Ubuntu-Bold;
+  padding: 0px;
+  margin: 0px;
+}
+
+
+.navbar-collapse, #navbarSupportedContent{
+  font-family: Ubuntu;
+  padding: 0px;
+  margin: 0px;
+}
+
+
+.navbar{
+  padding: 2px;
+  margin: 0px;
+}
+
+.serach-box{
+  padding: 6px;
+  margin: 6px;
+}
+
+
+.app-logo-title{
+  width: 20%;
+  padding: 0px;
+  margin: 0px;
+}
